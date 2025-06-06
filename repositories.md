@@ -5,3 +5,4 @@
 - [sfoda](https://github.com/mrayson/sfoda) Stuff for Ocean Data Analysis, notably SUNTANS/unstructured grid ocean model wrangling tools
 - [GPTIDE](https://github.com/TIDE-ITRH/gptide) Gaussian process regression code
 - ...
+- [YutaoZhengPhD] (https://github.com/YutaoZheng/Yutao_PhD_codes.git) GP Parameterization for Internal Waves
